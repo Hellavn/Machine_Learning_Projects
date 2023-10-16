@@ -1,3 +1,9 @@
 
 *.png
 Chest_Disease_Multimodal_learning/datasets/padchest_sample2.zip
+*.pb
+*.data-00000-of-00001
+*.index
+*.jpg
+*.jpeg
+plant-diseases/train-20231015T235950Z-001.zip
